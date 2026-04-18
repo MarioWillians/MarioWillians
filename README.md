@@ -1,8 +1,9 @@
 ## Heya! It's a-me Mário! ^_^v
 
 Olá mundo! Me chamo Mário.
-
-<img width = "100" heigth = 100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<div align="center">
+  <img width = "100 " heigth = "100"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+</div>
 
 <!--
 **MarioWillians/MarioWillians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
